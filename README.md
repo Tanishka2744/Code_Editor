@@ -1,2 +1,16 @@
-# Code_Editor
-A simple and interactive code editor web app developed with HTML, CSS, and JavaScript for writing and editing code efficiently.
+## Live Code Editor
+
+A browser-based live code editor that allows users to write HTML, CSS, and JavaScript
+and instantly preview the output in real time using an iframe.
+
+### Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Features
+
+- Real-time code execution
+- Separate editors for HTML, CSS, and JS
+- Live output preview
