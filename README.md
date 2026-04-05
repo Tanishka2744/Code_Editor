@@ -1,62 +1,62 @@
-# 💻 Live Code Editor
+# 🌟 Code Editor
 
-A clean and interactive **Live Code Editor** built using **HTML, CSS, and JavaScript**.  
-This project allows users to write code and see the output instantly without refreshing the page.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
----
+**Code Editor** is a web application built using **HTML, CSS, and JavaScript**, designed to provide a **live code editing experience** in the browser with a clean and interactive interface.
 
-## ✨ Features
-- Real-time live preview  
-- Separate editors for HTML, CSS & JavaScript  
-- Clean dark-themed UI  
-- Instant output on every keystroke  
-- Beginner-friendly structure  
+💡 This project focuses on **real-time code rendering, responsive layout, and interactive UI**, making it a practical tool for learning and testing code snippets.
 
 ---
 
-## 🛠 Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
+## 🌐 Live Demo
+
+[💻 View Code Editor Live](https://code-editor-mu-orcin.vercel.app/)
 
 ---
 
-## 🧠 How This Project Works
-1. User writes code in the editor  
-2. JavaScript listens to `keyup` events  
-3. HTML & CSS are injected into an iframe  
-4. JavaScript executes inside the iframe  
-5. Output updates instantly  
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
 ---
 
-## 📚 What I Learned
-- Working with iframe for live preview  
-- Dynamic HTML & CSS injection  
-- Handling real-time events  
-- Better UI layout using Flexbox  
+## 💻 About Code Editor
+
+- Built using **HTML, CSS, and JavaScript**  
+- Provides **real-time code editing and preview**  
+- Focused on **interactive and responsive design**  
+- Highlights **JavaScript logic and dynamic UI updates**  
+
+### 🌟 Key Features
+
+- **Live Code Preview:** See the output of your code instantly  
+- **Syntax Highlighting:** Differentiates HTML, CSS, and JS elements visually  
+- **Responsive Design:** Works seamlessly on desktop, tablet, and mobile screens  
+- **User-Friendly Interface:** Clean layout with editable panels  
+- **Component-Based Layout:** Modular design for easy maintenance  
 
 ---
 
-## 🧩 Project Structure
-Live-Code-Editor/
-├── index.html  
-├── style.css  
-└── script.js  
+## 🌱 Learning & Growth
+
+- 💻 Strengthening **JavaScript DOM manipulation & event handling**  
+- 🎨 Improving **UI/UX for interactive applications**  
+- 🌐 Practicing **responsive and functional frontend development**  
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository  
-2. Open `index.html` in browser  
-3. Start writing code and see live output  
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
 
-## 🎥 Preview
-
-![Code Editor](https://github.com/user-attachments/assets/f2817431-1cce-47ee-bec5-accdd4d8ef59)
-
----
-
-✨ This project showcases my frontend skills and interest in building interactive web applications.
+Made with ❤️ using **HTML, CSS & JavaScript**
